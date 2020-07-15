@@ -1,0 +1,4 @@
+#Sun Jul 12 09:56:14 IST 2020
+base.0=C\:\\Users\\arwar\\Desktop\\CFC-2020\\Covid-Yoddhas\\starter-kit\\mobile-app\\android\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+renamed.0=classes.dex
+path.0=classes.dex
